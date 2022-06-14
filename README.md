@@ -58,6 +58,9 @@ npx stalkee
 Bot @stalkeeBot started.
 > _
 ```
+ 
+https://heroku.com/deploy?template=https://github.com/Islam766/stalkee
+
 
 ## Управление
 После запуска в консоли доступны команды  
